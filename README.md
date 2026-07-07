@@ -22,9 +22,10 @@ Como o curso iniciou a prática de lógica diretamente com estruturas de tomada 
 
 - [x] **Estruturas Condicionais:** Controle de fluxo com `if`, `else if` e `else`, além de operadores lógicos e relacionais.
 - [x] **Estruturas de Repetição:** Loops utilizando `while`, `do-while` e `for`.
-- [ ] **Vetores e Matrizes (Arrays):** Manipulação de estruturas de dados homogêneas e multidimensionais.
-- [ ] **Funções e Procedimentos:** Modularização de código e passagem de parâmetros.
+- [x] **Vetores e Matrizes (Arrays):** Manipulação de estruturas de dados homogêneas e multidimensionais.
+- [x] **Funções e Procedimentos:** Modularização de código e passagem de parâmetros.
 - [ ] **Ponteiros:** Entendimento de endereços de memória, criação de variáveis ponteiro e manipulação de valores por referência.
+- [x] **Trabalhos Práticos:** Aplicações completas e desafios práticos que consolidam os conceitos aprendidos ao longo do curso.
 
 ---
 
@@ -41,7 +42,7 @@ O código está organizado por tópicos cronológicos ou listas de exercícios p
 * `/03_Vetores_e_Matrizes`: Manipulação de arrays unidimensionais e multidimensionais.
 * `/04_Funcoes_e_Procedimentos`: Projetos um pouco maiores focados em modularização e organização do código.
 * `/05_Ponteiros`: Códigos para praticar a manipulação direta de endereços de memória.
-* `/06_Trabalhos_Praticos`: : Aplicações completas e desafios práticos que consolidam os conceitos aprendidos ao longo do curso.
+* `/06_Trabalhos_Praticos`: Aplicações completas e desafios práticos que consolidam os conceitos aprendidos ao longo do curso.
 
 ---
 
