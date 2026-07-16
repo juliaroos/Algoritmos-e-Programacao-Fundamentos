@@ -1,66 +1,95 @@
-# 🖥️ Algoritmos e Programação em C
+# 🖥️ Algorithms and Programming in C
 
-Este repositório foi criado para armazenar todas as atividades, exercícios e projetos práticos desenvolvidos durante a disciplina de **Algoritmos e Estrutura de Dados** (primeiro semestre) na faculdade.
+This repository contains exercises, assignments, and practical projects developed during the **Algorithms and Data Structures** course in the first semester of my Computer Science degree.
 
-O objetivo principal deste repositório é consolidar os fundamentos da lógica de programação e acompanhar a minha evolução no desenvolvimento de software utilizando a **Linguagem C**.
+Its purpose is to strengthen my programming fundamentals, develop problem-solving skills, and document my progress while learning the **C programming language**.
 
-📅 **Período Letivo:** Semestre 2025/02
+> **Note:** This is an academic repository. The source code, comments, and folder names are written in Portuguese, as the projects were developed for university coursework.
 
----
-
-## 🚀 Tecnologias e Ferramentas Utilizadas
-
-* **Linguagem:** C 🔵
-* **Compilador sugerido:** GCC / MinGW
-* **IDE/Editor:** VS Code
+📅 **Academic Semester:** 2025/02
 
 ---
 
-## 📚 Conteúdos Estudados
+## 🚀 Technologies & Tools
 
-Como o curso iniciou a prática de lógica diretamente com estruturas de tomada de decisão, o repositório é atualizado com exercícios focados nos seguintes tópicos:
-
-- [x] **Estruturas Condicionais:** Controle de fluxo com `if`, `else if` e `else`, além de operadores lógicos e relacionais.
-- [x] **Estruturas de Repetição:** Loops utilizando `while`, `do-while` e `for`.
-- [x] **Vetores e Matrizes (Arrays):** Manipulação de estruturas de dados homogêneas e multidimensionais.
-- [x] **Funções e Procedimentos:** Modularização de código e passagem de parâmetros.
-- [x] **Ponteiros:** Entendimento de endereços de memória, criação de variáveis ponteiro e manipulação de valores por referência.
-- [x] **Trabalhos Práticos:** Aplicações completas e desafios práticos que consolidam os conceitos aprendidos ao longo do curso.
-- [ ] **Exercícios de Consolidação:** Aplicações completas de revisão geral cobrindo toda a matéria do semestre.
+- **Programming Language:** C
+- **Compiler:** GCC / MinGW
+- **IDE/Editor:** Visual Studio Code
 
 ---
 
-## 📁 Organização do Repositório
+## 📚 Topics Covered
 
-O código está organizado por tópicos para facilitar a navegação:
+Throughout the semester, I completed exercises and projects covering the following topics:
 
-## 📁 Organização do Repositório
-
-O código está organizado por tópicos cronológicos ou listas de exercícios para facilitar a navegação:
-
-* `/01_Estruturas_Condicionais`: Primeiros programas focados em tomadas de decisão e testes lógicos.
-* `/02_Estruturas_Repeticao`: Exercícios utilizando estruturas de loop (`while`, `for`).
-* `/03_Vetores_e_Matrizes`: Manipulação de arrays unidimensionais e multidimensionais.
-* `/04_Funcoes_e_Procedimentos`: Projetos um pouco maiores focados em modularização e organização do código.
-* `/05_Ponteiros`: Códigos para praticar a manipulação direta de endereços de memória.
-* `/06_Trabalhos_Praticos`: Aplicações completas e desafios práticos que consolidam os conceitos aprendidos ao longo do curso.
-* `/07_Exercicios_Consolidacao`: Exercícios de revisão geral cobrindo toda a matéria do semestre.
+- ✅ Conditional Statements (`if`, `else if`, `else`)
+- ✅ Loops (`while`, `do-while`, `for`)
+- ✅ Arrays and Multidimensional Arrays
+- ✅ Functions and Procedures
+- ✅ Pointers
+- ✅ Practical Programming Assignments
+- ⏳ Comprehensive Review Exercises
 
 ---
 
-## 🛠️ Como Executar os Projetos
+## 📁 Repository Structure
 
-Para compilar e rodar qualquer um dos arquivos `.c` localmente, você precisará de um compilador C instalado (como o GCC).
+The repository is organized by topic, making it easier to follow my learning progression.
 
-1. Abra o terminal na pasta do arquivo que deseja executar.
-2. Compile o código com o comando:
-   ```bash
-   gcc nome_do_arquivo.c -o programa
+| Folder | Description |
+|--------|-------------|
+| `01_Estruturas_Condicionais` | Conditional statements and logical expressions. |
+| `02_Estruturas_Repeticao` | Loop structures (`while`, `for`, `do-while`). |
+| `03_Vetores_e_Matrizes` | One-dimensional and multidimensional arrays. |
+| `04_Funcoes_e_Procedimentos` | Functions, procedures, and code modularization. |
+| `05_Ponteiros` | Pointer manipulation and memory management. |
+| `06_Trabalhos_Praticos` | Practical programming assignments and larger exercises. |
+| `07_Exercicios_Consolidacao` | Comprehensive review exercises covering the semester's content. |
 
 ---
 
-🧑‍💻 Autor
+## ▶️ How to Run
 
-Desenvolvido com 💙 por Júlia Roos Costa
+To compile and run any `.c` file locally, make sure you have a C compiler installed (such as **GCC**).
 
-Se quiser entrar em contato ou acompanhar meus estudos, fique à vontade para me seguir aqui no GitHub!
+### Compile
+
+```bash
+gcc file_name.c -o program
+```
+
+### Run
+
+**Windows**
+
+```bash
+program.exe
+```
+
+**Linux / macOS**
+
+```bash
+./program
+```
+
+---
+
+## 🎯 Learning Goals
+
+This repository represents my first contact with programming and focuses on building a solid foundation in:
+
+- Programming logic
+- Algorithm design
+- Code organization
+- Problem-solving
+- Fundamental C programming concepts
+
+As I progress through my Computer Science degree, this repository serves as a record of my learning journey and technical growth.
+
+---
+
+## 👩‍💻 Author
+
+Developed with 💙 by **Júlia Roos Costa**
+
+Feel free to explore the repository and follow my journey as I continue learning and building new projects!
