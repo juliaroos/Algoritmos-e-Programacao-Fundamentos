@@ -22,13 +22,13 @@ Its purpose is to strengthen my programming fundamentals, develop problem-solvin
 
 Throughout the semester, I completed exercises and projects covering the following topics:
 
-- ✅ Conditional Statements (`if`, `else if`, `else`)
-- ✅ Loops (`while`, `do-while`, `for`)
-- ✅ Arrays and Multidimensional Arrays
-- ✅ Functions and Procedures
-- ✅ Pointers
-- ✅ Practical Programming Assignments
-- ⏳ Comprehensive Review Exercises
+- [x] Conditional Statements (`if`, `else if`, `else`)
+- [x] Loops (`while`, `do-while`, `for`)
+- [x] Arrays and Multidimensional Arrays
+- [x] Functions and Procedures
+- [x] Pointers
+- [x] Practical Programming Assignments
+- [ ] Comprehensive Review Exercises
 
 ---
 
